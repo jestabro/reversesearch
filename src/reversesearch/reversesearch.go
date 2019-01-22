@@ -1,6 +1,8 @@
 // The package reversearch provides an interface for exploring the
-// Reverse Search algorithm of Avis and Fukuda
-// (standard ref)
+// Reverse Search algorithm of Avis and Fukuda:
+//
+// https://www.sciencedirect.com/science/article/pii/0166218X9500026N
+//
 // The preliminary implementation here is drawn from David Avis'
 // tutorial:
 //
