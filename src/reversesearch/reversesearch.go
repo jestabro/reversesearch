@@ -6,7 +6,7 @@
 // The preliminary implementation here is drawn from David Avis'
 // tutorial:
 //
-// cgm.cs.mcgill.ca/~avis/doc/tutorial1/tutorial.pdf
+// http://cgm.cs.mcgill.ca/~avis/doc/tutorial1/tutorial.pdf
 //
 // The algorithm was originally invented to investigate convex hull
 // calculations, but is amenable to calculation in a variety of
